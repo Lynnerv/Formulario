@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\2X94\\Formulario\\Formulario.csproj": {}
+    "C:\\Users\\User\\Desktop\\2X94\\copy formu\\Formulario\\Formulario.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\2X94\\Formulario\\Formulario.csproj": {
+    "C:\\Users\\User\\Desktop\\2X94\\copy formu\\Formulario\\Formulario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\2X94\\Formulario\\Formulario.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\2X94\\copy formu\\Formulario\\Formulario.csproj",
         "projectName": "Formulario",
-        "projectPath": "C:\\Users\\User\\Desktop\\2X94\\Formulario\\Formulario.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\2X94\\copy formu\\Formulario\\Formulario.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\2X94\\Formulario\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\2X94\\copy formu\\Formulario\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"

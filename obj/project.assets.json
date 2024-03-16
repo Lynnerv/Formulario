@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\2X94\\Formulario\\Formulario.csproj",
+      "projectUniqueName": "c:\\Users\\User\\Desktop\\2X94\\copy formu\\Formulario\\Formulario.csproj",
       "projectName": "Formulario",
-      "projectPath": "C:\\Users\\User\\Desktop\\2X94\\Formulario\\Formulario.csproj",
+      "projectPath": "c:\\Users\\User\\Desktop\\2X94\\copy formu\\Formulario\\Formulario.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\2X94\\Formulario\\obj\\",
+      "outputPath": "c:\\Users\\User\\Desktop\\2X94\\copy formu\\Formulario\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
